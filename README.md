@@ -5,7 +5,7 @@ This is a Python script that allows you to encrypt or decrypt a given text using
 ## Usage
 
 1. Make sure you have Python installed on your system.
-2. Copy and save the code into a file with a `.py` extension, e.g., `encryption_script.py`.
+2. Copy and save the code into a file with a `.py` extension, e.g., `Ceaser.py`.
 3. Open a terminal or command prompt and navigate to the directory where you saved the script.
 4. Run the script using the command: `python Ceaser.py`.
 5. Follow the prompts to choose the mode, enter the shift key, text, and output file name.
